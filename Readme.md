@@ -9,7 +9,7 @@ Basic setup of React for purpose of performing katas.  Includes setup for React,
  - **Jest** (_coming soon_)
  - **eslint** - using airbnb's
    - for a list of latest airbnb plugins that need to be installed, run this: `npm info "eslint-config-airbnb@latest" peerDependencies`
- - **jsdom** - only used for enzyme mount()
+ - **jsdom**
 
 This doesn't create anything else such as webpack because you'll be running everything from your tests.
 
